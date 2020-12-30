@@ -74,8 +74,9 @@
                 </div>
                 <div class="col-md-8">
                     <p>
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. Etiam volutpat
-                        laoreet urna. Morbi ut tortor nec nulla commodo malesuada sit amet vel lacus. Fusce eget efficitur
+                        Born in 1992 (28), Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. Etiam volutpat
+                        laoreet urna. Morbi ut tortor nec nulla commodo malesuada sit amet vel lacus. Fusce eget
+                        efficitur
                         libero. Morbi dapibus porta quam laoreet placerat.
                     </p>
                 </div>
@@ -87,7 +88,7 @@
     <div id="experience" class="background-alt">
         <h2 class="heading">Experience</h2>
         <div id="experience-timeline">
-            <div data-date="February 2020 – December 2020">
+            <div data-date="April 2020 – Jan 2021">
                 <h3>Bonna inc.</h3>
                 <h4>Software Developer</h4>
                 <p>
@@ -97,7 +98,18 @@
                 </p>
             </div>
 
-            <div data-date="September 2015 – September 2016">
+            <div data-date="Jun 2019 – April 2020">
+                <h3>Freelancer</h3>
+                <h4>Game Developer</h4>
+                <p>
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. Etiam volutpat
+                    laoreet urna. Morbi ut tortor nec nulla commodo malesuada sit amet vel lacus. Fusce eget efficitur
+                    libero. Morbi dapibus porta quam laoreet placerat.
+                </p>
+            </div>
+
+
+            <div data-date="May 2014 – May 2019">
                 <h3>Modiin ezrahi (מודיעין אזרחי)</h3>
                 <h4>Security Guard</h4>
                 <p>
@@ -116,19 +128,25 @@
             <span class="education-date">November 2017 - January 2019</span>
             <h4>FullStack Java, One year (354 hours)</h4>
             <p>
-            <h4>final project — Coupon management system Grade - 97</h4>
             <ul>
                 <li>
-                    Back-end: Spring Boot backend working with MSSQL and MySql through JPA.
-                    Front-end: Angular 6 + Bootstrap single page application with a login page and a custom design for
-                    each
-                    end user type.
+                    Android Studio
                 </li>
                 <li>
-                    All basic functionalities for admin, company and customer.
-                    Security filters and math utilities.
+                    OOP, Design Patterns.
                 </li>
-            </ul>
+                <li>
+                    Back-end: Java, Spring, MSSQL, MySql, JPA.
+                </li>
+                <li>
+                    Front-end: Angular, Bootstrap, Firebase 
+                </li>
+                <li>
+                    Security filters & Math utilities.
+                </li>
+
+            </br>
+            <h4>final project — Coupon management system Grade - 97</h4>
             </p>
         </div>
         <!-- End .education-block -->
@@ -256,32 +274,20 @@
     <div id="skills">
         <h2 class="heading">Skills</h2>
         <ul>
-            <li>JavaScript</li>
+            <li>Godot Engine</li>
             <li>Python</li>
-            <li>Ruby</li>
-            <li>Go</li>
-            <li>Node.js</li>
-            <li>AngularJs</li>
-            <li>React</li>
-            <li>Elixir</li>
-            <li>Java</li>
-            <li>C</li>
+            <li>Unity</li>
             <li>C#</li>
-            <li>C++</li>
-            <li>Ruby on Rails</li>
+            <li>Java</li>
+            <li>Android Studio</li>
+            <li>Node.js</li>
+            <li>Angular</li>
+            <li>React</li>
             <li>JavaScript</li>
-            <li>Python</li>
-            <li>Ruby</li>
-            <li>Go</li>
-            <li>Node.js</li>
-            <li>AngularJs</li>
-            <li>React</li>
-            <li>Elixir</li>
-            <li>Java</li>
-            <li>C</li>
-            <li>C#</li>
-            <li>C++</li>
-            <li>Ruby on Rails</li>
+            <li>HTML</li>
+            <li>CSS</li>
+
+
         </ul>
     </div>
     <!-- End #skills -->
