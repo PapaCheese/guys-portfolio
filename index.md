@@ -98,7 +98,7 @@
                 </p>
             </div>
 
-            <div data-date="Jun 2019 – April 2020">
+            <div data-date="Aug 2019 – April 2020">
                 <h3>Freelancer</h3>
                 <h4>Game Developer</h4>
                 <p>
@@ -144,9 +144,17 @@
                 <li>
                     Security filters & Math utilities.
                 </li>
-
+            </ul>
             </br>
-            <h4>final project — Coupon management system Grade - 97</h4>
+            <h4>Final project — Coupon management system</h4>
+            <ul>
+                <li>
+                    With secure registration.
+                </li>
+                <li>
+                    Grade - 97
+                </li>
+            </ul>
             </p>
         </div>
         <!-- End .education-block -->
@@ -160,12 +168,6 @@
                     High school graduate with electives Electronics and computer science
                     expanding on english translation, C and Java.
                 </li>
-                <li>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                </li>
-                <li>
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                </li>
             </ul>
         </div>
         <!-- End .education-block -->
@@ -176,6 +178,24 @@
         <h2 class="heading">Projects</h2>
         <div class="container">
             <div class="row">
+
+                <div class="project shadow-large">
+                    <div class="project-image">
+                        <img src="images/betrailer.gif" />
+                    </div>
+                    <!-- End .project-image -->
+                    <div class="project-info" style="margin-left: 630px;">
+                        <h3>Bullet Express</h3>
+                        <p>
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. Etiam
+                            volutpat laoreet urna. Morbi ut tortor nec nulla commodo malesuada sit amet vel lacus. Fusce
+                            eget efficitur libero. Morbi dapibus porta quam laoreet placerat.
+                        </p>
+                        <a href="#">View Project</a>
+                    </div>
+                    <!-- End .project-info -->
+                </div>
+
                 <div class="project shadow-large">
                     <div class="project-image">
                         <img src="images/funk.gif" />
@@ -218,7 +238,7 @@
                     </div>
                     <!-- End .project-image -->
                     <div class="project-info">
-                        <h3>Knowledge</h3>
+                        <h3>Knowledge Retention</h3>
                         <p>
                             Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. Etiam
                             volutpat laoreet urna. Morbi ut tortor nec nulla commodo malesuada sit amet vel lacus. Fusce
@@ -264,6 +284,42 @@
                     </div>
                     <!-- End .project-info -->
                 </div>
+
+                <div class="project shadow-large">
+                    <div class="project-image">
+                        <img src="images/anatomy.gif" />
+                    </div>
+                    <!-- End .project-image -->
+                    <div class="project-info">
+                        <h3>Anatomy Mini Game</h3>
+                        <p>
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. Etiam
+                            volutpat laoreet urna. Morbi ut tortor nec nulla commodo malesuada sit amet vel lacus. Fusce
+                            eget efficitur libero. Morbi dapibus porta quam laoreet placerat.
+                        </p>
+                        <a href="#">View Project</a>
+                    </div>
+                    <!-- End .project-info -->
+                </div>
+
+                
+                <div class="project shadow-large">
+                    <div class="project-image">
+                        <img src="images/math.gif" />
+                    </div>
+                    <!-- End .project-image -->
+                    <div class="project-info">
+                        <h3>Fast Math Mini Game</h3>
+                        <p>
+                            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. Etiam
+                            volutpat laoreet urna. Morbi ut tortor nec nulla commodo malesuada sit amet vel lacus. Fusce
+                            eget efficitur libero. Morbi dapibus porta quam laoreet placerat.
+                        </p>
+                        <a href="#">View Project</a>
+                    </div>
+                    <!-- End .project-info -->
+                </div>
+
                 <!-- End .project -->
             </div>
 
@@ -278,12 +334,13 @@
             <li>Python</li>
             <li>Unity</li>
             <li>C#</li>
-            <li>Java</li>
             <li>Android Studio</li>
+            <li>Java</li>
             <li>Node.js</li>
             <li>Angular</li>
             <li>React</li>
             <li>JavaScript</li>
+            <li>TypeScript</li>
             <li>HTML</li>
             <li>CSS</li>
 
