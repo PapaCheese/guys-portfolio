@@ -74,7 +74,8 @@
                 </div>
                 <div class="col-md-8">
                     <p>
-                        Born in 1992 (28), Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. Etiam volutpat
+                        Born in 1992 (28), Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis
+                        ex. Etiam volutpat
                         laoreet urna. Morbi ut tortor nec nulla commodo malesuada sit amet vel lacus. Fusce eget
                         efficitur
                         libero. Morbi dapibus porta quam laoreet placerat.
@@ -88,6 +89,16 @@
     <div id="experience" class="background-alt">
         <h2 class="heading">Experience</h2>
         <div id="experience-timeline">
+            <div data-date="Jan 2021 – Now">
+                <h3>Freelancer</h3>
+                <h4>Game Developer</h4>
+                <p>
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in iaculis ex. Etiam volutpat
+                    laoreet urna. Morbi ut tortor nec nulla commodo malesuada sit amet vel lacus. Fusce eget efficitur
+                    libero. Morbi dapibus porta quam laoreet placerat.
+                </p>
+            </div>
+
             <div data-date="April 2020 – Jan 2021">
                 <h3>Bonna inc.</h3>
                 <h4>Software Developer</h4>
@@ -139,7 +150,7 @@
                     Back-end: Java, Spring, MSSQL, MySql, JPA.
                 </li>
                 <li>
-                    Front-end: Angular, Bootstrap, Firebase 
+                    Front-end: Angular, Bootstrap, Firebase
                 </li>
                 <li>
                     Security filters & Math utilities.
@@ -198,8 +209,10 @@
 
                 <div class="project shadow-large">
                     <div class="project-image">
-                        <img src="images/funk.gif" />
-                    </div>
+                        <video width="480" height="270" autoplay loop muted>
+                            <source src="images/funk.mp4" type="video/mp4" />
+                            Your browser does not support the video tag.
+                        </video>                    </div>
                     <!-- End .project-image -->
                     <div class="project-info">
                         <h3>Moon Prosody</h3>
@@ -216,7 +229,10 @@
 
                 <div class="project shadow-large">
                     <div class="project-image">
-                        <img src="images/space.gif" />
+                        <video width="480" height="270" autoplay loop muted>
+                            <source src="images/space2.mp4" type="video/mp4" />
+                            Your browser does not support the video tag.
+                        </video>
                     </div>
                     <!-- End .project-image -->
                     <div class="project-info">
@@ -234,7 +250,10 @@
 
                 <div class="project shadow-large">
                     <div class="project-image">
-                        <img src="images/knowledge.gif" />
+                        <video width="480" height="270" autoplay loop muted>
+                            <source src="images/knowledge.mp4" type="video/mp4" />
+                            Your browser does not support the video tag.
+                        </video>
                     </div>
                     <!-- End .project-image -->
                     <div class="project-info">
@@ -252,8 +271,10 @@
 
                 <div class="project shadow-large">
                     <div class="project-image">
-                        <img src="images/nova.gif" />
-                    </div>
+                        <video width="480" height="270" autoplay loop muted>
+                            <source src="images/nova.mp4" type="video/mp4" />
+                            Your browser does not support the video tag.
+                        </video>                    </div>
                     <!-- End .project-image -->
                     <div class="project-info">
                         <h3>Super Nova</h3>
@@ -270,7 +291,10 @@
 
                 <div class="project shadow-large">
                     <div class="project-image">
-                        <img src="images/run.gif" />
+                        <video width="480" height="270" autoplay loop muted>
+                            <source src="images/run.mp4" type="video/mp4" />
+                            Your browser does not support the video tag.
+                        </video>
                     </div>
                     <!-- End .project-image -->
                     <div class="project-info">
@@ -287,7 +311,10 @@
 
                 <div class="project shadow-large">
                     <div class="project-image">
-                        <img src="images/anatomy.gif" />
+                        <video width="480" height="270" autoplay loop muted>
+                            <source src="images/anatomy.mp4" type="video/mp4" />
+                            Your browser does not support the video tag.
+                        </video>
                     </div>
                     <!-- End .project-image -->
                     <div class="project-info">
@@ -302,10 +329,13 @@
                     <!-- End .project-info -->
                 </div>
 
-                
+
                 <div class="project shadow-large">
                     <div class="project-image">
-                        <img src="images/math.gif" />
+                        <video width="480" height="270" autoplay loop muted>
+                            <source src="images/math.mp4" type="video/mp4" />
+                            Your browser does not support the video tag.
+                        </video>
                     </div>
                     <!-- End .project-image -->
                     <div class="project-info">
@@ -330,12 +360,12 @@
     <div id="skills">
         <h2 class="heading">Skills</h2>
         <ul>
-            <li>Godot Engine</li>
-            <li>Python</li>
-            <li>Unity</li>
-            <li>C#</li>
-            <li>Android Studio</li>
             <li>Java</li>
+            <li>C#</li>
+            <li>Python</li>
+            <li>Godot Engine</li>
+            <li>Unity</li>
+            <li>Android Studio</li>
             <li>Node.js</li>
             <li>Angular</li>
             <li>React</li>
