@@ -12,7 +12,7 @@
 */
 
 body {
-font-family: 'Rubik', sans-serif;
+    font-family: 'Rubik', sans-serif;
     font-size: 18px
 }
 
@@ -159,7 +159,7 @@ footer {
     padding: 32px 0;
 }
 
-footer p{
+footer p {
     font-size: 24px;
 }
 
@@ -544,6 +544,14 @@ footer p{
 .project-image {
     float: left;
 }
+
+
+.project img {
+    position: absolute;
+    bottom: 8px;
+    right: 16px;
+}
+
 
 .project-info {
     position: absolute;
