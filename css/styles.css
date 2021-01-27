@@ -545,13 +545,11 @@ footer p {
     float: left;
 }
 
-
 .project img {
     position: absolute;
     bottom: 8px;
     right: 16px;
 }
-
 
 .project-info {
     position: absolute;
@@ -774,6 +772,11 @@ footer p {
     #about p {
         text-align: left
     }
+    .project-info p{
+        display: none
+    }
+
+
 }
 
 @media only screen and (max-width: 768px) {
@@ -814,15 +817,14 @@ footer p {
     .education-block h3, .education-block span {
         float: none
     }
-    .project-image {
-        display: none
-    }
+
     .project-info {
         position: relative;
         margin: 0;
         padding: 30px 15px;
         top: auto;
-        transform: none
+        transform: none;
+        display: block
     }
     footer {
         text-align: center
