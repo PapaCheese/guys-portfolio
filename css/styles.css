@@ -170,7 +170,7 @@ footer a {
     color: rgb(199, 234, 245);
 }
 
-.fa-linkedin, .fa-github {
+.fa-linkedin, .fa-github, .fa-chevron-up{
     color: #fff
 }
 
@@ -198,7 +198,7 @@ footer a {
 }
 
 .top i {
-    color: #74808a
+    color: #d0dae2
 }
 
 .social {
@@ -369,7 +369,6 @@ footer a {
     padding: 75px 15px;
     border-bottom: 1px solid #dcd9d9;
     text-align: center
-
 }
 
 #about h2 {
@@ -377,7 +376,7 @@ footer a {
 }
 
 #about p {
-    color: #74808a;
+    color: #5c656d;
     margin: 0
 }
 
@@ -389,6 +388,10 @@ footer a {
 
 #experience h2 {
     color: #374054
+}
+
+#experience a {
+    color: #4b649b
 }
 
 #experience-timeline {
@@ -503,7 +506,7 @@ footer a {
     padding: 15px;
     background: #f2f2f5;
     border: 1px solid #dcd9d9;
-    text-align: left
+    text-align: left;
 }
 
 .education-block h3 {
@@ -514,12 +517,12 @@ footer a {
 }
 
 .education-block span {
-    color: #74808a;
+    color: #303438;
     float: right
 }
 
 .education-block h4 {
-    color: #74808a;
+    color: #33393d;
     clear: both;
     font-weight: 500;
     margin: 0 0 15px 0
@@ -527,7 +530,7 @@ footer a {
 
 .education-block p, .education-block ul {
     margin: 0;
-    color: #74808a;
+    color: #636d75;
     font-size: 0.9em
 }
 
