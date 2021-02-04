@@ -368,7 +368,7 @@ footer a {
 #about {
     padding: 75px 15px;
     border-bottom: 1px solid #dcd9d9;
-    text-align: center
+    text-align: center;
 }
 
 #about h2 {
@@ -504,7 +504,7 @@ footer a {
     max-width: 700px;
     margin: 0 auto 30px auto;
     padding: 15px;
-    background: #f2f2f5;
+    background: #fafcff;
     border: 1px solid #dcd9d9;
     text-align: left;
 }
@@ -553,7 +553,7 @@ footer a {
     position: relative;
     margin: 0 auto 30px auto;
     overflow: hidden;
-    background: #f2f2f5;
+    background: #fafcff;
     border-radius: 4px
 }
 
@@ -786,9 +786,7 @@ footer a {
     #about {
         text-align: center
     }
-    #about p {
-        text-align: left
-    }
+
     .project-info p{
         display: none
     }
