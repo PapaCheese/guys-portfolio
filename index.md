@@ -270,7 +270,7 @@
                     <div class="project-info">
                         <h3>Jesus Saves The World</h3>
                         <p>
-                            Play as jesus as he saves the world from zombies and deamons in this holloween themed Action
+                            Play as jesus as he saves the world from zombies and demons in this holloween themed Action
                             RPG
                             <br><br> All code, art and music by me.
 
