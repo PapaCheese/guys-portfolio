@@ -156,10 +156,9 @@ header.sticky {
 }
 
 footer {
-    padding: 32px 0;
+    padding-top: 32px;
     background: #3498db;
     color: #fff;
-
 }
 
 footer p {
@@ -170,7 +169,7 @@ footer a {
     color: rgb(199, 234, 245);
 }
 
-.fa-linkedin, .fa-github, .fa-chevron-up{
+.fa-linkedin, .fa-github, .fa-chevron-up {
     color: #fff
 }
 
@@ -744,7 +743,6 @@ footer a {
     padding: 0 0 0 15px
 }
 
-
 .green-dot {
     margin-left: 8px;
     height: 14px;
@@ -752,26 +750,25 @@ footer a {
     background-color: rgb(134, 223, 148);
     border-radius: 50%;
     display: inline-block;
-  }
+}
 
-
-  .yellow-dot {
+.yellow-dot {
     margin-left: 8px;
     height: 14px;
     width: 14px;
     background-color: rgb(221, 223, 126);
     border-radius: 50%;
     display: inline-block;
-  }
+}
 
-  .red-dot {
+.red-dot {
     margin-left: 8px;
     height: 14px;
     width: 14px;
     background-color: rgb(223, 170, 134);
     border-radius: 50%;
     display: inline-block;
-  }
+}
 
 @media only screen and (max-width: 750px) {
     #experience-timeline:before, #experience-timeline:after {
@@ -815,15 +812,12 @@ footer a {
     #about {
         text-align: center
     }
-
-    .project-info p{
+    .project-info p {
         display: none
     }
     .project-info {
         width: 30%;
-    
     }
-
 }
 
 @media only screen and (max-width: 768px) {
@@ -864,7 +858,6 @@ footer a {
     .education-block h3, .education-block span {
         float: none
     }
-
     .project-info {
         position: relative;
         margin: 0;
