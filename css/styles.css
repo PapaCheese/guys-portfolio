@@ -560,6 +560,13 @@ footer a {
     float: left;
 }
 
+
+.project-image iframe{
+    float: left;
+    border: 0;
+}
+
+
 .project img {
     position: absolute;
     bottom: 8px;
