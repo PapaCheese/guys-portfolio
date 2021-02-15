@@ -174,7 +174,7 @@ footer a {
 }
 
 .copyright {
-    padding-top: 20px
+    padding-bottom: 20px
 }
 
 .copyright p {
@@ -365,7 +365,9 @@ footer a {
 }
 
 #about {
-    padding: 75px 15px;
+    padding-top: 75px;
+    padding-right: 15px;
+    padding-left: 15px;
     border-bottom: 1px solid #dcd9d9;
     text-align: center;
 }
