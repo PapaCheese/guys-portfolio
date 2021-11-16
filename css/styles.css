@@ -26,6 +26,7 @@ body {
     padding: 0 4px;
 }
 
+
 /* Create two equal columns that sits next to each other */
 
 .column-image {
@@ -73,7 +74,8 @@ body.active {
     margin: 0
 }
 
-.no-js #experience-timeline:before, .no-js #experience-timeline:after {
+.no-js #experience-timeline:before,
+.no-js #experience-timeline:after {
     content: none
 }
 
@@ -193,7 +195,9 @@ footer a {
     color: rgb(199, 234, 245);
 }
 
-.fa-linkedin, .fa-github, .fa-chevron-up {
+.fa-linkedin,
+.fa-github,
+.fa-chevron-up {
     color: #fff
 }
 
@@ -316,7 +320,8 @@ footer a {
     text-align: center
 }
 
-#lead-content h1, #lead-content h2 {
+#lead-content h1,
+#lead-content h2 {
     margin: 0
 }
 
@@ -553,7 +558,8 @@ footer a {
     margin: 0 0 15px 0
 }
 
-.education-block p, .education-block ul {
+.education-block p,
+.education-block ul {
     margin: 0;
     color: #636d75;
     font-size: 0.9em
@@ -596,7 +602,6 @@ footer a {
     bottom: 8px;
     right: 16px;
 }
-
 
 .project-info {
     position: absolute;
@@ -675,7 +680,8 @@ footer a {
     margin: 0 auto
 }
 
-#contact-form input, #contact-form textarea {
+#contact-form input,
+#contact-form textarea {
     display: block;
     width: 100%;
     padding: 10px;
@@ -687,25 +693,30 @@ footer a {
     transition: .5s ease all
 }
 
-#contact-form input::-webkit-input-placeholder, #contact-form textarea::-webkit-input-placeholder {
+#contact-form input::-webkit-input-placeholder,
+#contact-form textarea::-webkit-input-placeholder {
     color: #fff
 }
 
-#contact-form input:-moz-placeholder, #contact-form textarea:-moz-placeholder {
+#contact-form input:-moz-placeholder,
+#contact-form textarea:-moz-placeholder {
     color: #fff;
     opacity: 1
 }
 
-#contact-form input::-moz-placeholder, #contact-form textarea::-moz-placeholder {
+#contact-form input::-moz-placeholder,
+#contact-form textarea::-moz-placeholder {
     color: #fff;
     opacity: 1
 }
 
-#contact-form input:-ms-input-placeholder, #contact-form textarea:-ms-input-placeholder {
+#contact-form input:-ms-input-placeholder,
+#contact-form textarea:-ms-input-placeholder {
     color: #fff
 }
 
-#contact-form input:focus, #contact-form textarea:focus {
+#contact-form input:focus,
+#contact-form textarea:focus {
     outline: none;
     background: #16527a
 }
@@ -764,7 +775,8 @@ footer a {
     margin: 0 0 15px 0
 }
 
-.optional-section-block p, .optional-section-block ul {
+.optional-section-block p,
+.optional-section-block ul {
     margin: 0 0 15px 0;
     color: #74808a;
     font-size: 0.9em
@@ -802,7 +814,8 @@ footer a {
 }
 
 @media only screen and (max-width: 750px) {
-    #experience-timeline:before, #experience-timeline:after {
+    #experience-timeline:before,
+    #experience-timeline:after {
         left: 23px
     }
     .vtimeline-date {
@@ -860,7 +873,8 @@ footer a {
         bottom: 0;
         height: 100%
     }
-    #mobile-menu-open, #mobile-menu-close {
+    #mobile-menu-open,
+    #mobile-menu-close {
         display: block
     }
     #menu {
@@ -886,7 +900,8 @@ footer a {
     #lead-down {
         display: none
     }
-    .education-block h3, .education-block span {
+    .education-block h3,
+    .education-block span {
         float: none
     }
     .project-info {
