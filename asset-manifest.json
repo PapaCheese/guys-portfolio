@@ -1,13 +1,21 @@
 {
   "files": {
-    "main.css": "/guys-portfolio/static/css/main.5a204378.css",
-    "main.js": "/guys-portfolio/static/js/main.719f8b7e.js",
+    "main.css": "/guys-portfolio/static/css/main.6f7f56a0.css",
+    "main.js": "/guys-portfolio/static/js/main.d8efae7b.js",
+    "static/media/hero.gif": "/guys-portfolio/static/media/hero.4b57740e903dd89c5f81.gif",
+    "static/media/slimwav.gif": "/guys-portfolio/static/media/slimwav.f6649ce4494adb506d9f.gif",
+    "static/media/villain.gif": "/guys-portfolio/static/media/villain.3a968ac5f573335886a7.gif",
+    "static/media/simp.gif": "/guys-portfolio/static/media/simp.3cca63b99aa0f26d78f4.gif",
+    "static/media/blue_p_run.gif": "/guys-portfolio/static/media/blue_p_run.22b6e7a0ddfada155bb0.gif",
+    "static/media/simp_tall.gif": "/guys-portfolio/static/media/simp_tall.d02bd7b494b13b29e27d.gif",
+    "static/media/purple_hood.gif": "/guys-portfolio/static/media/purple_hood.fbe0a5d7b4744c246937.gif",
+    "static/media/robot.gif": "/guys-portfolio/static/media/robot.645fed11ee2bceb4f667.gif",
     "index.html": "/guys-portfolio/index.html",
-    "main.5a204378.css.map": "/guys-portfolio/static/css/main.5a204378.css.map",
-    "main.719f8b7e.js.map": "/guys-portfolio/static/js/main.719f8b7e.js.map"
+    "main.6f7f56a0.css.map": "/guys-portfolio/static/css/main.6f7f56a0.css.map",
+    "main.d8efae7b.js.map": "/guys-portfolio/static/js/main.d8efae7b.js.map"
   },
   "entrypoints": [
-    "static/css/main.5a204378.css",
-    "static/js/main.719f8b7e.js"
+    "static/css/main.6f7f56a0.css",
+    "static/js/main.d8efae7b.js"
   ]
 }
